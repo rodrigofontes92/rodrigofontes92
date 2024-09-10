@@ -1,4 +1,5 @@
-## Bem-vindo(a) ao meu perfil 😁
+## Bem-vindo(a) ao meu perfil
+Estudante de front-end, sempre à procura de novos aprendizados.
 
  <div>
    <a href="https://github.com/rodrigofontes92">
