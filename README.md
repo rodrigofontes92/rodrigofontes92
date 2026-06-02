@@ -74,4 +74,4 @@
 
 ---
 
-⭐ *Sempre aprendendo, sempre evoluindo.*
+⭐ *Committed to continuous learning and professional growth.*
