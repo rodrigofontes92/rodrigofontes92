@@ -30,6 +30,16 @@
 
 ---
 
+### ⚙️ Frameworks & Platforms
+<div style="display: inline_block"><br>
+  <img align="center" alt=".NET" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg">
+  <img align="center" alt="ASP.NET Core" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
+  <img align="center" alt="Entity Framework" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg">
+  <img align="center" alt="Flask" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
+</div>
+
+---
+
 ### 🌐 Frontend
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -43,6 +53,18 @@
   <img align="center" alt="SQL Server" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
   <img align="center" alt="MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
+
+---
+
+### 🗺️ GIS & CAD Technologies
+
+- ZWCAD SDK (ZRX)
+- CAD APIs
+- NetTopologySuite
+- SharpKml
+- ProjNet
+- Coordinate Reference Systems (CRS)
+- Geospatial Data Processing
 
 ---
 
