@@ -26,12 +26,12 @@
 
 <table align="center">
   <tr>
-    <td align="center"><img alt="C" height="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"><br><sub><b>C</b></sub></td>
-    <td align="center"><img alt="C++" height="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"><br><sub><b>C++</b></sub></td>
-    <td align="center"><img alt="C#" height="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"><br><sub><b>C#</b></sub></td>
-    <td align="center"><img alt="Java" height="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"><br><sub><b>Java</b></sub></td>
-    <td align="center"><img alt="Python" height="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><br><sub><b>Python</b></sub></td>
-    <td align="center"><img alt="JavaScript" height="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><br><sub><b>JavaScript</b></sub></td>
+    <td align="center"><img alt="C" height="38" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"><br><sub><b>C</b></sub></td>
+    <td align="center"><img alt="C++" height="38" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"><br><sub><b>C++</b></sub></td>
+    <td align="center"><img alt="C#" height="38" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"><br><sub><b>C#</b></sub></td>
+    <td align="center"><img alt="Java" height="38" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"><br><sub><b>Java</b></sub></td>
+    <td align="center"><img alt="Python" height="38" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><br><sub><b>Python</b></sub></td>
+    <td align="center"><img alt="JavaScript" height="38" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><br><sub><b>JavaScript</b></sub></td>
   </tr>
 </table>
 
@@ -39,11 +39,11 @@
 
 <table align="center">
   <tr>
-    <td align="center"><img alt=".NET" height="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg"><br><sub><b>.NET</b></sub></td>
-    <td align="center"><img alt="ASP.NET Core" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"><br><sub><b>ASP.NET Core</b></sub></td>
-    <td align="center"><img alt="Entity Framework Core" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/entityframeworkcore/entityframeworkcore-original.svg"><br><sub><b>Entity Framework Core</b></sub></td>
-    <td align="center"><img alt="Flask" height="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg"><br><sub><b>Flask</b></sub></td>
-    <td align="center"><img alt="C++ for ZRX SDK and ZWCAD APIs" height="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"><br><sub><b>ZRX SDK<br>ZWCAD APIs</b></sub></td>
+    <td align="center"><img alt=".NET" height="38" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg"><br><sub><b>.NET</b></sub></td>
+    <td align="center"><img alt="ASP.NET Core" height="38" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"><br><sub><b>ASP.NET Core</b></sub></td>
+    <td align="center"><img alt="Entity Framework Core" height="38" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/entityframeworkcore/entityframeworkcore-original.svg"><br><sub><b>Entity Framework Core</b></sub></td>
+    <td align="center"><img alt="Flask" height="38" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg"><br><sub><b>Flask</b></sub></td>
+    <td align="center"><img alt="C++ for ZRX SDK and ZWCAD APIs" height="38" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"><br><sub><b>ZRX SDK<br>ZWCAD APIs</b></sub></td>
   </tr>
 </table>
 
@@ -51,8 +51,8 @@
 
 <table align="center">
   <tr>
-    <td align="center"><img alt="HTML5" height="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><br><sub><b>HTML5</b></sub></td>
-    <td align="center"><img alt="CSS3" height="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><br><sub><b>CSS3</b></sub></td>
+    <td align="center"><img alt="HTML5" height="38" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><br><sub><b>HTML5</b></sub></td>
+    <td align="center"><img alt="CSS3" height="38" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><br><sub><b>CSS3</b></sub></td>
   </tr>
 </table>
 
@@ -60,8 +60,8 @@
 
 <table align="center">
   <tr>
-    <td align="center"><img alt="SQL Server" height="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"><br><sub><b>SQL Server</b></sub></td>
-    <td align="center"><img alt="MySQL" height="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"><br><sub><b>MySQL</b></sub></td>
+    <td align="center"><img alt="SQL Server" height="38" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"><br><sub><b>SQL Server</b></sub></td>
+    <td align="center"><img alt="MySQL" height="38" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"><br><sub><b>MySQL</b></sub></td>
   </tr>
 </table>
 
@@ -69,10 +69,10 @@
 
 <table align="center">
   <tr>
-    <td align="center"><img alt="Visual Studio" height="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg"><br><sub><b>Visual Studio</b></sub></td>
-    <td align="center"><img alt="Visual Studio Code" height="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"><br><sub><b>VS Code</b></sub></td>
-    <td align="center"><img alt="Apache NetBeans" height="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netbeans/netbeans-original.svg"><br><sub><b>Apache NetBeans</b></sub></td>
-    <td align="center"><img alt="IntelliJ IDEA" height="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg"><br><sub><b>IntelliJ IDEA</b></sub></td>
+    <td align="center"><img alt="Visual Studio" height="38" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg"><br><sub><b>Visual Studio</b></sub></td>
+    <td align="center"><img alt="Visual Studio Code" height="38" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"><br><sub><b>VS Code</b></sub></td>
+    <td align="center"><img alt="Apache NetBeans" height="38" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netbeans/netbeans-original.svg"><br><sub><b>Apache NetBeans</b></sub></td>
+    <td align="center"><img alt="IntelliJ IDEA" height="38" width="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg"><br><sub><b>IntelliJ IDEA</b></sub></td>
   </tr>
 </table>
 
