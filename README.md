@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Rodrigo Fontes
 
 <p align="center">
-  🎓 Programming Student at IEFP<br>
-  💻 Focused on backend development and web applications<br>
-  🗺️ Building native geospatial tools for ZWCAD with C++ and the ZRX SDK
+  🧑‍💻 Software Development Intern<br>
+  💻 Focused on building web applications and practical software solutions<br>
+  🗺️ Developing native geospatial tools for ZWCAD with C++ and the ZRX SDK
 </p>
 
 ---
@@ -22,66 +22,61 @@
 
 ## 🚀 Technologies & Tools
 
-### 💻 Languages
+### ↳ 💻 Languages
 
-<div style="display: inline_block">
-  <img align="center" alt="C" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
-  <img align="center" alt="C++" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
-  <img align="center" alt="C#" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Java" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Python" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="JavaScript" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-</div>
+<table align="center">
+  <tr>
+    <td align="center"><img alt="C" height="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"><br><sub><b>C</b></sub></td>
+    <td align="center"><img alt="C++" height="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"><br><sub><b>C++</b></sub></td>
+    <td align="center"><img alt="C#" height="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"><br><sub><b>C#</b></sub></td>
+    <td align="center"><img alt="Java" height="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg"><br><sub><b>Java</b></sub></td>
+    <td align="center"><img alt="Python" height="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><br><sub><b>Python</b></sub></td>
+    <td align="center"><img alt="JavaScript" height="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"><br><sub><b>JavaScript</b></sub></td>
+  </tr>
+</table>
 
----
+### ↳ ⚙️ Frameworks & Platforms
 
-### ⚙️ Frameworks & Platforms
+<table align="center">
+  <tr>
+    <td align="center"><img alt=".NET" height="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg"><br><sub><b>.NET</b></sub></td>
+    <td align="center"><img alt="ASP.NET Core" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"><br><sub><b>ASP.NET Core</b></sub></td>
+    <td align="center"><img alt="Entity Framework Core" height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/entityframeworkcore/entityframeworkcore-original.svg"><br><sub><b>Entity Framework Core</b></sub></td>
+    <td align="center"><img alt="Flask" height="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg"><br><sub><b>Flask</b></sub></td>
+    <td align="center"><img alt="C++ for ZRX SDK and ZWCAD APIs" height="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"><br><sub><b>ZRX SDK<br>ZWCAD APIs</b></sub></td>
+  </tr>
+</table>
 
-<div style="display: inline_block">
-  <img align="center" alt=".NET" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original.svg">
-  <img align="center" alt="ASP.NET Core" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg">
-  <img align="center" alt="Entity Framework Core" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/entityframeworkcore/entityframeworkcore-original.svg">
-  <img align="center" alt="Flask" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg">
-</div>
+### ↳ 🌐 Frontend
 
-**Native CAD development:** C++ · ZRX SDK · ZWCAD APIs
+<table align="center">
+  <tr>
+    <td align="center"><img alt="HTML5" height="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"><br><sub><b>HTML5</b></sub></td>
+    <td align="center"><img alt="CSS3" height="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><br><sub><b>CSS3</b></sub></td>
+  </tr>
+</table>
 
----
+### ↳ 🗄️ Databases
 
-### 🌐 Frontend
+<table align="center">
+  <tr>
+    <td align="center"><img alt="SQL Server" height="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"><br><sub><b>SQL Server</b></sub></td>
+    <td align="center"><img alt="MySQL" height="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg"><br><sub><b>MySQL</b></sub></td>
+  </tr>
+</table>
 
-<div style="display: inline_block">
-  <img align="center" alt="HTML5" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+### ↳ 🧰 IDEs
 
----
+<table align="center">
+  <tr>
+    <td align="center"><img alt="Visual Studio" height="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg"><br><sub><b>Visual Studio</b></sub></td>
+    <td align="center"><img alt="Visual Studio Code" height="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg"><br><sub><b>VS Code</b></sub></td>
+    <td align="center"><img alt="Apache NetBeans" height="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netbeans/netbeans-original.svg"><br><sub><b>Apache NetBeans</b></sub></td>
+    <td align="center"><img alt="IntelliJ IDEA" height="38" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg"><br><sub><b>IntelliJ IDEA</b></sub></td>
+  </tr>
+</table>
 
-### 🗄️ Databases
-
-<div style="display: inline_block">
-  <img align="center" alt="SQL Server" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain.svg">
-  <img align="center" alt="MySQL" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-</div>
-
----
-
-### 🧰 IDEs
-
-<p align="center">
-  <img alt="Visual Studio" title="Visual Studio" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg">
-  &nbsp;&nbsp;
-  <img alt="Visual Studio Code" title="Visual Studio Code" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  &nbsp;&nbsp;
-  <img alt="Apache NetBeans" title="Apache NetBeans" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netbeans/netbeans-original.svg">
-  &nbsp;&nbsp;
-  <img alt="IntelliJ IDEA" title="IntelliJ IDEA" height="42" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg">
-</p>
-<p align="center"><strong>Visual Studio · VS Code · Apache NetBeans · IntelliJ IDEA</strong></p>
-
----
-
-### 🗺️ GIS & CAD Technologies
+### ↳ 🗺️ GIS & CAD Technologies
 
 - Native ZWCAD plugin development with C++ and the ZRX SDK
 - Shapefile workflows: SHP geometry, DBF attributes, and PRJ coordinate reference metadata
@@ -94,11 +89,11 @@
 
 ## 🎯 Goals
 
-- Grow as a software developer, with a focus on backend engineering and .NET
-- Build secure, scalable, and maintainable applications and APIs
-- Deepen my knowledge of software architecture, design patterns, cloud technologies, and clean code
-- Combine my background in Business Administration, Data Analysis, and Digital Marketing to solve practical business problems
-- Contribute to useful products and collaborate with multidisciplinary teams
+- Grow as a versatile software developer, contributing to both frontend and backend applications
+- Build reliable, accessible, secure, and maintainable software that solves practical problems
+- Strengthen my skills across APIs, databases, user interfaces, software design, cloud technologies, and clean code
+- Combine my background in Business Administration, Data Analysis, and Digital Marketing with software development
+- Learn through collaboration and contribute to multidisciplinary teams
 
 ---
 
